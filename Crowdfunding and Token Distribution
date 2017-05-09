@@ -1,0 +1,48 @@
+Last updated 9th of May 2017. 
+
+# Crowdfunding, public token distribution
+
+BET is a token that powers DAO.Casino protocol. It is used as in game currency for games integrated with the system and as an incentive mechanism for the participants. It is implemented as ERC20 and the total amount of tokens is proportional to the amount of Ether contributed during the crowdfunding period. The issuance starts after core components of the system are implemented on Ethereum mainnet and external audit is completed. Crowdfunding period is planned for June 2017 and will last for 28 days. After that there is no more BET issued. This document explains the distribution of BET and the details of the crowdfunding campaign.
+
+## BET exchange rate to ETH during the crowdfunding period
+
+The first day will be power day. At this day the price for Dao.Casino token will be 200 per 1ETH. Then the rate will change:
+
+* 200 on the first day
+
+* 190: days 2 to 15 (14 days total)
+
+* 180: days 16 to 18 (3 days total)
+
+* 170: days 19 to 21 (3 days total)
+
+* 160: days 22 to 24 (3 days total)
+
+* 150: days 25 to 27 (3 days total)
+
+* 140: days 28 to 30 (3 days total)
+
+Contribution will be capped at 200 000 Ether. No more BET will be issued after crowdfunding period is over.
+
+## Dao.Casino token(BET) distribution:
+
+* 74% Crowdfunding
+
+*  6% Bounties
+	1% For creator of best random generation solution
+	3% Games developers (0.1% for one team)
+	1.5% Advisors and Security audit
+	0.5% Community engagement
+
+* 10% Foundation
+
+* 10% Initial core team
+
+## Funds management
+
+Funds raised in Ether will be managed by a legal entity. Details about legal infrastructure and it’s governance will be published before the crowdfunding campaign starts. Purpose of the legal entity will be protocol R&D. As described above, it will hold 10% of all the BET tokens as an unsold asset and an incentive for it to drive the protocol forwards. Amongst the activities of the organisation: releasing a standalone client, security audit and whitelisting of the games from independent teams and is able to distribute funds as grants to the independent teams working on different aspects of the system, provide consultancy on usage of decentralised protocols in the context of gambling industry.
+
+## No minimum goal
+
+Crowdfunding campaign doesn’t have a minimum goal. The MVP for the protocol will be launched under any conditions. Fundraising is a question of the improvement of the protocol, so that it can be used in industry context, building more games, in house and with external teams, implementing additional components such as a standalone platform for querying whitelists and browsing games hosted in a decentralised manner, onboarding new developers, long term research and work with existing casino operators.
+
