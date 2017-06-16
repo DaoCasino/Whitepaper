@@ -40,7 +40,7 @@ Contribution will be capped at 15 000 000 USD. Due to a recent ether's volatilit
 70/10/10/10 distribution: 70% will go to purchasers during a public crowdfunding campaign, 10% to the Foundation, 10% Bounty, and 10% to the founders and early contributors who have worked on the project. Founders and early contributors will all have vesting.
 
 
-# Founder vesting
+## Founder vesting
 
 Vesting is necessary, with no exceptions. It ensures, that founders would not cheat. Our main goal is to improve our project, save and protect it. That's why vesting is our way to show responsibility to all of our contributors.
 Founders and early contributors will have 2 years vesting with 6 months cliff. This means we will mature 25% of our tokens each 6 months.
