@@ -8,7 +8,7 @@ Last updates 23rd of June 2017 (changes due to pre-sale requests: introduced sof
 
 * Soft cap 20 000 000 $ in Ether 
 
-* Hard cap $30,000,000 in Ether (+24 hours after soft cap has been reached)
+* Hard cap $30 000 000 in Ether (+24 hours after soft cap has been reached)
 
 * No minimum cap: The MVP for the protocol will be launched under any conditions before the distribution of tokens starts
 
