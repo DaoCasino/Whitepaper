@@ -1,4 +1,4 @@
-Last updated 14th of June 2017. 
+Last updates 23rd of June 2017 (changes due to pre-sale requests: introduced soft cap)
 
 # Summary
 
@@ -6,7 +6,9 @@ Last updated 14th of June 2017.
 
 * Token name: BET
 
-* Maximum cap 15 000 000 $ in Ether 
+* Soft cap 20 000 000 $ in Ether 
+
+* Hard cap $30,000,000 in Ether (+24 hours after soft cap has been reached)
 
 * No minimum cap: The MVP for the protocol will be launched under any conditions before the distribution of tokens starts
 
@@ -16,7 +18,7 @@ Last updated 14th of June 2017.
 BET is a token that powers DAO.Casino protocol. It is used as in game currency for games integrated with the system and as an incentive mechanism for the participants. It is implemented as ERC20 and the total amount of tokens is proportional to the amount of Ether contributed during the crowdfunding period plus bounties. The issuance starts after core components of the system are implemented on Ethereum mainnet and external audit is completed. Crowdfunding period is planned for June 2017 and will last for 28 days. **After that there is no more BET issued** This document explains the distribution of BET and the details of the crowdfunding campaign
 
 
-## BET exchange rate to ETH during the crowdfunding period
+## BET price staging (exchange rate to ETH during the campaign period)
 
 The first day will be power day. At this day the price for Dao.Casino token will be 2000 per 1ETH. Then the rate will change:
 
@@ -27,9 +29,11 @@ The first day will be power day. At this day the price for Dao.Casino token will
 * Day 20-22 1500 BET = 1 Ether
 * Day 23-25 1400  BET = 1 Ether
 * Day 26-28 1300 BET = 1 Ether
+* Pre-Sale: 2,300 BET = 1 Ether
 
 
-Contribution will be capped at 15 000 000 USD. Due to a recent ether's volatility, cap calculated in ether will be announced on the day of token launch. No more BET will be issued after crowdfunding period is over.
+
+Contribution will be capped at 30 000 000 USD equivalent in Ether. Due to a recent ether's volatility, cap calculated in ether will be announced on the day of token launch. No more BET will be issued after crowdfunding period is over.
 
 ## 	Pre Sale  
 
@@ -37,7 +41,7 @@ Contribution will be capped at 15 000 000 USD. Due to a recent ether's volatilit
 
 ## Dao.Casino token(BET) distribution
 
-70/10/10/10 distribution: 70% will go to purchasers during a public crowdfunding campaign, 10% to the Foundation, 10% Bounty, and 10% to the founders and early contributors who have worked on the project. Founders and early contributors will all have vesting.
+70/10/10/10 distribution: 70% will go to purchasers during a public crowdfunding campaign, 10% to the legal entity, 10% bounties, and 10% to the founders and early contributors who have worked on the project. Founders and early contributors will all have vesting.
 
 
 ## Founder vesting
@@ -49,6 +53,14 @@ Founders and early contributors will have 2 years vesting with 6 months cliff. T
 ## Funds management
 
 Funds raised in ether will be managed by a legal entity. Details about legal infrastructure and it’s governance will be published before the crowdfunding campaign starts. Purpose of the legal entity will be protocol R&D. As described above, it will hold 10% of all the BET tokens as an unsold asset and an incentive for it to drive the protocol forwards. Amongst the activities of the organisation: releasing a standalone client, security audit and whitelisting of the games from independent teams and is able to distribute funds as grants to the independent teams working on different aspects of the system, provide consultancy on usage of decentralised protocols in the context of gambling industry.
+
+## Intended use of raised funds
+
+* 60% - Research & Development
+* 20% - Operation
+* 15% - Marketing
+* 5% - Legal
+
 
 ## No minimum goal
 
