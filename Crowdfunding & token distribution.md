@@ -41,7 +41,7 @@ Contribution will be capped at 30 000 000 USD equivalent in Ether. Due to a rece
 
 ## Dao.Casino token(BET) distribution
 
-70/10/10/10 distribution: 70% will go to purchasers during a public crowdfunding campaign, 10% to the legal entity, 10% bounties, and 10% to the founders and early contributors who have worked on the project. Founders and early contributors will all have vesting.
+70/10/10/10 distribution: 70% will go to the campaign participants, 10% to the legal entity, 10% bounties, and 10% to the founders and early contributors who have worked on the project. Founders and early contributors will all have vesting.
 
 
 ## Founder vesting
