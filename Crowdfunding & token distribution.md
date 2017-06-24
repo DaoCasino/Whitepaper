@@ -7,7 +7,7 @@
 * Maximum cap: $25,000,000 in Ether
 * Token name: BET
 
-BET is a token that powers DAO.Casino protocol. It is used as in game currency for games integrated with the system and as an incentive mechanism for the participants. It is implemented as ERC20 and the total amount of tokens is proportional to the amount of Ether contributed during the token sale period plus bounties. The issuance starts after core components of the system are implemented on Ethereum mainnet and external audit is completed. Token sale period is planned for June 29th, 2017 and will last for 28 days. **After that there is no more BET issued** This document explains the distribution of BET and the details of the token sale campaign.
+BET is a token that powers DAO.Casino protocol. It is used as in game currency for games integrated with the system and as an incentive mechanism for the participants. It is implemented as ERC20 and the total amount of tokens is proportional to the amount of Ether contributed during the token sale period plus bounties. The campaign will start at 1:00 pm GMT on June 29th, 2017. It will completely end in 28 days or when the Maximum cap is reached. **After that there is no more BET issued** This document explains the distribution of BET and the details of the token sale campaign.
 
 ## BET price staging (exchange rate to ETH during the campaign period)
 
