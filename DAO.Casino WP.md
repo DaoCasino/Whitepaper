@@ -204,7 +204,7 @@ We refer to those entities as agents, because a) their role is as important as a
 
 All contracts that are considered a part of the protocol should be autonomous agents - controlled by fair and authorised participants behaviour. Contracts that are deployed for crowdfunding and the issuance of BET are not considered a part of the protocol, but a step to design, deploy and improve it, and in this sense are not autonomous - managed by a legal entity.
 
- 74% of all BET will be distributed automatically to the addresses taking part in a crowdfunding campaign. 26% off all BET will be distributed in the form of bounties and incentives see [Crowdfunding & Token Distribution](https://github.com/DaoCasino/Whitepaper/blob/master/Crowdfunding%20%26%20token%20distribution.md)
+For more information on how BET will be distributed see [Crowdfunding & Token Distribution](https://github.com/DaoCasino/Whitepaper/blob/master/Crowdfunding%20%26%20token%20distribution.md)
 
 # 2.2. Token System
 
