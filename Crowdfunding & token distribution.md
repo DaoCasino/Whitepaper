@@ -1,4 +1,4 @@
-Last updates 23rd of June 2017 (changes due to pre-sale requests: introduced soft cap)
+Last updates 24th of June - lowered a max cap, changed pre-sale from 2300 BET to 2400 BET per Ether
 
 # Summary
 
@@ -6,9 +6,7 @@ Last updates 23rd of June 2017 (changes due to pre-sale requests: introduced sof
 
 * Token name: BET
 
-* Soft cap 20 000 000 $ in Ether 
-
-* Hard cap $30 000 000 in Ether (+24 hours after soft cap has been reached)
+* Сap $25 000 000 in Ether
 
 * No minimum cap: The MVP for the protocol will be launched under any conditions before the distribution of tokens starts
 
@@ -29,15 +27,15 @@ The first day will be power day. At this day the price for Dao.Casino token will
 * Day 20-22 1500 BET = 1 Ether
 * Day 23-25 1400  BET = 1 Ether
 * Day 26-28 1300 BET = 1 Ether
-* Pre-Sale: 2,300 BET = 1 Ether
+* Pre-Sale: 2,400 BET = 1 Ether
 
 
 
-Contribution will be capped at 30 000 000 USD equivalent in Ether. Due to a recent ether's volatility, cap calculated in ether will be announced on the day of token launch. No more BET will be issued after crowdfunding period is over.
+Contribution will be capped at 25 000 000 USD equivalent in Ether. Due to a recent ether's volatility, cap calculated in ether will be announced on the day of token launch. No more BET will be issued after crowdfunding period is over.
 
 ## 	Pre Sale  
 
-2300 BET = 1 Ether, 300 BET will be added, as a vesting. It would last for a half a year, with 3 month cliff. 
+2400 BET = 1 Ether, 300 BET will be added, as a vesting. It would last for a half a year, with 3 month cliff. 
 
 ## Dao.Casino token(BET) distribution
 
