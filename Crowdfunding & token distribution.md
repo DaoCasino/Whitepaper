@@ -14,12 +14,11 @@ BET is a token that powers DAO.Casino protocol. It is used as in game currency f
 The first day will be power day. At this day the price for Dao.Casino token will be 2000 per 1ETH. Then the rate will change:
 
 * 1st day 2000 BET = 1 Ether
-* Day 2-14 1800 BET = 1 Ether
-* Day 15-17 1700 BET = 1 Ether
-* Day 18-20 1600 BET = 1 Ether
-* Day 20-22 1500 BET = 1 Ether
-* Day 23-25 1400  BET = 1 Ether
-* Day 26-28 1300 BET = 1 Ether
+* Day 2-15 1800 BET = 1 Ether
+* Day 16-18 1700 BET = 1 Ether
+* Day 19-21 1600 BET = 1 Ether
+* Day 22-24 1500 BET = 1 Ether
+* Day 25-27 1400  BET = 1 Ether
 
 Contribution will be capped at $25,000,000 equivalent in Ether. Due to a recent ether's volatility, cap calculated in ether will be announced on the day of token launch. No more BET will be issued after token sale period is over.
 
