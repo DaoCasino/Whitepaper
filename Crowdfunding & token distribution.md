@@ -4,7 +4,7 @@
 * Ending: in 28 days or when the Maximum cap is reached
 * Only ETH accepted
 * No minimum cap: The MVP for the protocol will be launched under any conditions before the distribution of tokens starts
-* Maximum cap: $25,000,000 in Ether
+* Maximum cap: 83333,333 ETH
 * Token name: BET
 
 BET is a token that powers DAO.Casino protocol. It is used as in game currency for games integrated with the system and as an incentive mechanism for the participants. It is implemented as ERC20 and the total amount of tokens is proportional to the amount of Ether contributed during the token sale period plus bounties. The campaign will start at 1:00 pm GMT on June 29th, 2017. It will completely end in 28 days or when the Maximum cap is reached. **After that there is no more BET issued**. This document explains the distribution of BET and the details of the token sale campaign.
