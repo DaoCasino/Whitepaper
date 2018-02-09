@@ -78,7 +78,7 @@ We can summarise existing issues in the online gambling industry as originating 
 
 # 2. DAO.Casino Protocol
 
-The objective of Dao.Casino protocol is to enable a sustainable model which benefits all the parties involved in the online gambling business process. (i.e it should be more profitable for the developer to use Dao.Casino protocol, rather than work on its own, and less costly for a casino operator to provide better service for the players. Players should have access to more diverse range of games from independent game developers while having a higher level of security than in traditional online casinos).
+The objective of Dao.Casino protocol is to enable a sustainable model which benefits all the parties involved in the online gambling business process. (i.e. it should be more profitable for the developer to use Dao.Casino protocol, rather than work on its own, and less costly for a casino operator to provide better service for the players. Players should have access to more diverse range of games from independent game developers while having a higher level of security than in traditional online casinos).
 
 Single points of failure - processes of value transfer where trusted third party would be required in a conventional online gambling business is replaced by code consistently executed by Ethereum network - a system of smart contracts. These contracts are, simply speaking, just escrows that can be triggered by particular actions performed by the participants and nothing else. These actions correspond to the value that the participants add to the ecosystem. When there is no human actors with administrator permissions that can change value distribution processes there is no risk of such actors would become corrupt and make changes in their favour. This consistency of code is a pretty useful feature in the context of gambling business. 
 
@@ -144,9 +144,9 @@ Integrate a system of replicable templates and incentivised audit to allow game 
 
 Developers refers to both: game developers and contract developers. Whoever provides a functional piece of software automatically receives tokens to their EOA by the DAO.Casino system proportionally to the usage of this software. Independent game developers should be able to collaborate with platform operators easier, retain their IP rights in the game and a possibility to receive lifelong rewards for their work automatically. 
 
-A front-end developer who is capable of creating a good game doesn’t have to developer a gambling game smart contract, but use existing ones. In this case automatic developer’s rewards will be split between the creator of the contract and the creator of the front-end. 
+A front-end developer who is capable of creating a good game doesn’t have to develop a gambling game smart contract, but use existing ones. In this case automatic developer’s rewards will be split between the creator of the contract and the creator of the front-end. 
 
-For the past 1.5 years we have seen growth of gaming and gambling on Ethereum. However we cannot expect that every good game creator will learn how to program for EVM, while there is a lot of talent amongst independent game devs. To leverage existing game design and development skills tested smart contract templates can be used by several game dev teams. Ethereum ecosystem allows teams to share backend without compromising security.   
+For the past 1.5 years we have seen growth of gaming and gambling on Ethereum. However, we cannot expect that every good game creator will learn how to program for EVM, while there is a lot of talent amongst independent game devs. To leverage existing game design and development skills tested smart contract templates can be used by several game dev teams. Ethereum ecosystem allows teams to share backend without compromising security.   
 
 ## 2.1.2. Platform Operators
 
@@ -188,7 +188,7 @@ To participate as a Random Number Provider a participant is required to a) lock 
 
 Any token holder can support any particular game by taking on a role of a bankroll backer. Bankroll Backers locks their token in a game contract of their choice and automatically receive a reward. 
 
-Bankroll Backer behaviour can vary depending on the game contract and what PRNG system is used. In a first implementation Bankroll Backer provides BET tokens to the bankroll of the game and a value from which the the outcome of the game is derived. 
+Bankroll Backer behaviour can vary depending on the game contract and what PRNG system is used. In a first implementation Bankroll Backer provides BET tokens to the bankroll of the game and a value from which the outcome of the game is derived. 
 
 ## 2.1.6. Players
 
@@ -266,13 +266,13 @@ After the BET is launched we will be able to test a running system with more par
 
 3. DAO.Casino Browser 1.0 - a standalone desktop client that addressed Games Certification Contract and assembles the games taking their Ethereum addresses and the frontend stored in IPFS. Detailed specs of the browser will be released during the summer 2017.
 
-In this release a bankroll crowsourcing aspect is completed. DAO.Casino protocol is public, and anyone can audit game contracts, but we can’t expect that every player will read the source code. For that reason a system for whitelisting audited games is useful. Platform operators can use their own Game Certification Contract for the games that they have audited. In this period research and testing of possibly better PRNG solutions continues. 
+In this release a bankroll crowdsourcing aspect is completed. DAO.Casino protocol is public, and anyone can audit game contracts, but we can’t expect that every player will read the source code. For that reason a system for whitelisting audited games is useful. Platform operators can use their own Game Certification Contract for the games that they have audited. In this period research and testing of possibly better PRNG solutions continues. 
 
 ## 2.3.3. Further developments
 
 First releases of DAO.Casino are focusing on Ethereum powered components and a client - a browser that allows to navigate games without centrally hosted UI. After those components are implemented and tested the focus of the project should shift towards onboarding new developers and making the system more appealing to traditional casino operators and more useable. Working plan for the end of 2017 beginning of 2018 and onwards:
 
-* Contracts Opensource Licence based on DAOFactory. Smart contracts as any software needs a licence to define the rules of it’s usage, distribution and relations to patented work. A unique thing about contracts, that it they can be their own licence and the licence is also a piece of code. In the context of gambling games integrated with reward mechanism we are planning to implement a reward based licensing. It means that anyone can replicate anyone’s contract within Ethereum to a new address, while the original contract author is still entitled to automatic rewards defined in the licence.
+* Contracts Opensource License based on DAOFactory. Smart contracts as any software needs a license to define the rules of it’s usage, distribution and relations to patented work. A unique thing about contracts, that it they can be their own license and the license is also a piece of code. In the context of gambling games integrated with reward mechanism we are planning to implement a reward based licensing. It means that anyone can replicate anyone’s contract within Ethereum to a new address, while the original contract author is still entitled to automatic rewards defined in the license.
 
 * Game Factory - a system for secure replication of game contracts based on DAO.Factory
 
@@ -324,7 +324,7 @@ FullTilt RNG is built on a similar principle with PokerStars, there are 3 indepe
 
 ## 3.3.1. Internal method 
 
-Data derived from the blockchain data itself i.e block number, timestamps.
+Data derived from the blockchain data itself i.e. block number, timestamps.
 
 This method involves the use of current block hash values ​​or hash block.This method is not considered secure because it has a risk of manipulation on behalf of miners. See: [http://martin.swende.se/blog/Breaking_the_house.html](http://martin.swende.se/blog/Breaking_the_house.html)
 
@@ -350,7 +350,7 @@ Each of the above approaches has its own value. One of the most sophisticated, r
 
 On the other hand, the simplest one is the internal method. For example, the Rouleth project uses this method. The studies described below have shown that cheating is possible, but insignificant, if the bet does not reach high values.
 
-To fight the miners’ fraud, one must choose such parameters that it would be not economically interesting. The Rouleth conducted a simulation, the results of which are available on github[10]. The analysis showed that the attacker must possess at least 3% of the capacity of the network. In this case, the attacker should spend about 23 ETH per block. This value, however, decreases as the possession of the computation capacity by the attacker increases. If he possesses 10% of the network, then  only 2 ETH per block is needed for the attack, and 25% of capacity decreases this amount  to 1.2 ETH. The attacker will be forced to spend 0.5 ETH if he owns 51% of the network;the entire network is subject to far greater danger than a simple roulette hack.
+To fight the miners’ fraud, one must choose such parameters that it would be not economically interesting. The Rouleth conducted a simulation, the results of which are available on github[10]. The analysis showed that the attacker must possess at least 3% of the capacity of the network. In this case, the attacker should spend about 23 ETH per block. This value, however, decreases as the possession of the computation capacity by the attacker increases. If he possesses 10% of the network, then  only 2 ETH per block is needed for the attack, and 25% of capacity decreases this amount  to 1.2 ETH. The attacker will be forced to spend 0.5 ETH if he owns 51% of the network; the entire network is subject to far greater danger than a simple roulette hack.
 
 Game developer & architect should intentionally keep the gain volume low so that it would be economically unprofitable for the attacker to practice deception. Please note that the cheating miner can make a lot of bets per block to increase the probability of winning. Therefore, we have set the maximum number of bets per block to 2 (but this can be changed).
 
@@ -428,7 +428,7 @@ Dao.Casino platform is an example of an online platform where the developers can
 
 By the time of system launch the main goal of the platform is to provide an interface. As we have mentioned before, at least one front-end platform is needed for the whole reward system to make sense. 
 
-In the alpha version that we released front end is stored on a central server. The platform is open source and will be released by completion under Apache 2.0 licence
+In the alpha version that we released front end is stored on a central server. The platform is open source and will be released by completion under Apache 2.0 license
 
 Alpha platform tasks are:
 
@@ -460,7 +460,7 @@ Three issues need to be addressed for this to happen:
 
 * There should be ways for the game developers to create games on Ethereum without deep knowledge of Solidity: replicable contract templates, examples and documentation.
 
-* There should be ways for platform operators to run set up a platfrom that plugs into Ethereum and display games from independent creators without deep and detailed knowledge of Ethereum ecosystem. 
+* There should be ways for platform operators to run set up a platform that plugs into Ethereum and display games from independent creators without deep and detailed knowledge of Ethereum ecosystem. 
 
 ## Appendix 
 
